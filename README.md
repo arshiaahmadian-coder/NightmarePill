@@ -1,25 +1,34 @@
-# Bennie Boom Dash
+# Nightmare Pill
 
 ## About
 
-## About
+“Nightmare Pill” is a **3D horror game for mobile** in the Psychological Horror and Anomaly Horror genres, built around observation, memory, and detecting subtle environmental changes.
 
-A 2D mobile arcade game focused on reflexes and obstacle avoidance. Players navigate through increasingly difficult levels filled with hazardous fireworks while collecting coins and health pickups. The game gradually introduces new firework behaviors, including vertical attacks, spiral trajectories, and unpredictable movement patterns. To further challenge the player, special events such as "Firework Rain" create chaotic situations where dozens of fireworks fall simultaneously, requiring quick reactions and precise movement to survive and reach the goal.
+The player is trapped inside an old and mysterious mansion and must carefully examine their surroundings to progress. In each stage, parts of the environment may have changed from their previous state. The player must identify these changes and choose the appropriate pill based on whether or not an anomaly is present.
+
+The core gameplay revolves around **careful observation, memorizing environmental details, and detecting subtle changes**. Anomalies can range from something as simple as a misplaced object or a changed painting to unsettling events such as the appearance of a shadow, a door changing position, or the presence of an unknown entity.
 
 ## Genre
 
-Platformer
+Psychological Horror, Anomaly Horror, First-Person Horror
 
 ## Features
 
-* Character Controller
-* Many Type of rockets 
-* Parallax Background
+* First-Person Character Controller
+* Anomaly Detection System
+* Environmental Change System
+* Interactive Pill System
 * Player State Machine
+* Interaction System
+* Dynamic Horror Events
+* Environmental Audio and Atmosphere
+* Mansion Exploration
+* Multiple Anomaly Types
+* Mobile-Optimized Gameplay
 
 ## My Role
 
-Programmer / Unity
+Game Developer
 
 ## Technologies
 
@@ -29,18 +38,17 @@ Programmer / Unity
 
 ## Screenshots
 
-![Bennie Boom Dash](Screenshots/Screenshot%200.jpg)
-![Gameplay 1](Screenshots/Screenshot%201.jpg)
-![Gameplay 2](Screenshots/Screenshot%202.jpg)
-![Gameplay 3](Screenshots/Screenshot%203.jpg)
-
-## Gameplay Video
-
-[Watch Gameplay Video](https://youtu.be/x_PLG5jnqN8?is=yAPPoswIrOqRMTZe)
+![Bennie Boom Dash](Screenshots/7.png)
+![Bennie Boom Dash](Screenshots/1.png)
+![Bennie Boom Dash](Screenshots/4.png)
+![Bennie Boom Dash](Screenshots/5.png)
+![Bennie Boom Dash](Screenshots/8.png)
 
 ## Challenges
 
-One of the main challenges was implementing the Player State Machine
+One of the main challenges was designing and implementing the anomaly detection gameplay loop while keeping the experience intuitive and engaging for a mobile horror game.
+
+Another challenge was creating a system capable of detecting and managing different types of environmental changes while maintaining consistent game states and player interactions.
 
 ## Status
 

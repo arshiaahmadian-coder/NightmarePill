@@ -1,5 +1,7 @@
 # Nightmare Pill
 
+[Game Repo Link](https://github.com/parham182/AnomalyGame) 
+
 ## About
 
 “Nightmare Pill” is a **3D horror game for mobile** in the Psychological Horror and Anomaly Horror genres, built around observation, memory, and detecting subtle environmental changes.

@@ -40,11 +40,11 @@ Game Developer
 
 ## Screenshots
 
-![Bennie Boom Dash](screenshots/7.png)
-![Bennie Boom Dash](screenshots/1.png)
-![Bennie Boom Dash](screenshots/4.png)
-![Bennie Boom Dash](screenshots/5.png)
-![Bennie Boom Dash](screenshots/8.png)
+![Nightmare Pill](screenshots/7.png)
+![Nightmare Pill](screenshots/1.png)
+![Nightmare Pill](screenshots/4.png)
+![Nightmare Pill](screenshots/5.png)
+![Nightmare Pill](screenshots/8.png)
 
 ## Challenges
 

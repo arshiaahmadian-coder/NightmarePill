@@ -40,11 +40,11 @@ Game Developer
 
 ## Screenshots
 
-![Bennie Boom Dash](Screenshots/7.png)
-![Bennie Boom Dash](Screenshots/1.png)
-![Bennie Boom Dash](Screenshots/4.png)
-![Bennie Boom Dash](Screenshots/5.png)
-![Bennie Boom Dash](Screenshots/8.png)
+![Bennie Boom Dash](screenshots/7.png)
+![Bennie Boom Dash](screenshots/1.png)
+![Bennie Boom Dash](screenshots/4.png)
+![Bennie Boom Dash](screenshots/5.png)
+![Bennie Boom Dash](screenshots/8.png)
 
 ## Challenges
 
